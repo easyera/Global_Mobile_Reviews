@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+.env/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Local database files
+*.db
+
+# Large data files (leave commented: the app needs the cleaned/processed data to run)
+# data/raw/
